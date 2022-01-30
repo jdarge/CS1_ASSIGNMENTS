@@ -1,0 +1,39 @@
+animal bird fish flower fruit 
+===animal===
+alligator bear cat cow deer dog horse lion tiger 
+===bird===
+blackbird crow dove flamingo 
+===fish===
+catfish garfish goldfish salmon swordfish 
+===flower===
+daffodil dahlia hibiscus lavender rose 
+===fruit===
+apple apricot avocado banana cherry coconut cranberry mango nectarine peach 
+15 flamingo found in bird
+eagle not found in bird
+30 cat found in animal
+item before goldfish: 2
+item before coconut: 5
+fruit: left height 3, right height 1, difference 2, not balanced
+flower: left height 3, right height -1, difference 4, not balanced
+100 rose found in flower
+5 dahlia found in flower
+astrangebird not found in bird
+country does not exist
+city does not exist
+flower count 275
+fish count 160
+banana deleted from fruit
+banana not found in fruit
+fish count 160
+swordfish deleted from fish
+swordfish not found in fish
+flamingo deleted from bird
+flamingo not found in bird
+fruit deleted
+fruit does not exist
+rose reduced
+40 rose found in flower
+rose reduced
+rose not found in flower
+

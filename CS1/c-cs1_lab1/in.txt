@@ -1,0 +1,15 @@
+3 4 2
+adel 10 12 9 45
+smile 6 8 9 39 
+mahmud 10 12 10 15
+jose 8 11 7 41
+
+adam 10 12 9 45
+smith 6 8 9 39 
+muhammad 10 12 10 45
+jones 8 11 7 41
+
+adil 10 12 9 45
+samuel 6 8 9 39 
+miguel 5 12 10 40
+jerry 8 11 7 41

@@ -1,0 +1,66 @@
+5 33 27
+flower
+fish
+animal
+bird
+fruit
+flower rose 100
+animal cat 30
+fish goldfish 50
+flower lavender 50
+animal dog 20
+bird blackbird 10
+flower daffodil 100
+flower dahlia 5
+flower hibiscus 20
+animal bear 10
+fruit mango 100
+animal alligator 50
+animal tiger 3
+animal lion 3
+fish swordfish 10
+animal deer 5
+animal cow 15
+fish garfish 5
+fish catfish 55
+fish salmon 40
+bird crow 20
+bird dove 10
+bird flamingo 15
+fruit apple 50
+fruit banana 50
+fruit nectarine 10
+fruit coconut 10
+fruit peach 40
+fruit apricot 30
+fruit avocado 25
+fruit cherry 100
+fruit cranberry 100
+animal horse 6
+search bird flamingo
+search bird eagle
+search animal cat
+item_before fish goldfish
+item_before fruit coconut
+height_balance fruit
+height_balance flower
+search flower rose
+search flower dahlia
+search bird astrangebird
+search country denmark
+search city orlando
+count flower
+count fish
+delete fruit banana
+search fruit banana
+count fish
+delete fish swordfish
+search fish swordfish
+delete bird  flamingo
+search bird flamingo
+delete_name fruit
+search fruit apple
+reduce flower rose 60
+search flower rose
+reduce flower rose 50
+search flower rose

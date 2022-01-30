@@ -1,0 +1,12 @@
+5
+4 jubei 7 3 3
+6 ukyo 5 2 3
+1 samurai 10 3 2
+7 haohmaru 9 2 4
+3 galford 8 2 1
+
+fillQueueInfo
+createReverseCircle
+display
+printQueue
+
